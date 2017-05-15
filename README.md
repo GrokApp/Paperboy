@@ -1,6 +1,6 @@
 ## Paperboy
 
-Paperboy fetches the news and dumps to Postgres. TODO insert something witty here
+Paperboy fetches the news and dumps to Postgres. TODO: Figure out a good source for short stories/novels (i.e. Project Gutenberg)
 
 List of news sources:
 
